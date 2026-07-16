@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Platform",
+  "description": "A production-inspired, highly polished, modular full-stack Food Delivery Platform with dedicated dashboards for customers, restaurant owners, delivery partners, and platform administrators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
